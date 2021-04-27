@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>dotnet-blazor-wasm-hosted-b2c.Server-658691E5-24AF-48E0-B424-B7D7610F5F97</UserSecretsId>
+    <UserSecretsId>dotnet-blazor-wasm-hosted-b2c.Server-91EDDF42-4273-491E-887F-44A115F69FE3</UserSecretsId>
     <RootNamespace>dotnet-blazor-wasm-hosted-b2c.Server</RootNamespace>
     <AssemblyName>$(AssemblyName.Replace(' ', '_'))</AssemblyName>
   </PropertyGroup>
